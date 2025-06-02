@@ -78,6 +78,7 @@ npx expo start
 ## 📱 Estrutura do Projeto
 
 - **`src/`** - Código fonte da aplicação
+  - **`app/`** - Telas da aplicação
   - **`components/`** - Componentes reutilizáveis
     - **`Button/`** - Componente de botão customizado
     - **`CardTask/`** - Card para exibição de tarefas
@@ -85,9 +86,9 @@ npx expo start
     - **`Input/`** - Campo de entrada de texto
     - **`Modal/`** - Modal com efeito blur
     - **`StatusButton/`** - Botões de filtro por status
-  - **`dtos/`** - Data Transfer Objects (tipos TypeScript)
+  - **`assets/`** - Recursos estáticos (imagens, ícones)
   - **`storage/`** - Funções para persistência de dados
-  - **`screens/`** - Telas da aplicação
+  - **`dtos/`** - Data Transfer Objects (tipos TypeScript)
 - **`assets/`** - Recursos estáticos (imagens, ícones)
 
 ## 🎨 Screenshots

@@ -36,8 +36,8 @@ Um aplicativo de gerenciamento de tarefas desenvolvido com React Native e Expo, 
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
 
-- [Node.js](https://nodejs.org/) (versão 16 ou superior)
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- [Node.js](https://nodejs.org/) (v22.16.0)
+- [npm](https://www.npmjs.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/) (para macOS) ou [Android Studio](https://docs.expo.dev/workflow/android-studio-emulator/) (para Android)
 

@@ -77,19 +77,24 @@ npx expo start
 
 ## 📱 Estrutura do Projeto
 
-src/
-├── components/ # Componentes reutilizáveis
-│ ├── Button/
-│ ├── CardTask/
-│ ├── Header/
-│ ├── Input/
-│ ├── Modal/
-│ └── StatusButton/
-├── dtos/ # Data Transfer Objects (tipos)
-├── storage/ # Funções de armazenamento local
-└── screens/ # Telas do aplicativo
+- **`src/`** - Código fonte da aplicação
+  - **`components/`** - Componentes reutilizáveis
+    - **`Button/`** - Componente de botão customizado
+    - **`CardTask/`** - Card para exibição de tarefas
+    - **`Header/`** - Cabeçalho da aplicação
+    - **`Input/`** - Campo de entrada de texto
+    - **`Modal/`** - Modal com efeito blur
+    - **`StatusButton/`** - Botões de filtro por status
+  - **`dtos/`** - Data Transfer Objects (tipos TypeScript)
+  - **`storage/`** - Funções para persistência de dados
+  - **`screens/`** - Telas da aplicação
+- **`assets/`** - Recursos estáticos (imagens, ícones)
 
 ## 🎨 Screenshots
+
+<p align="center">
+  <img alt="Projeto vertem" src=".github/preview.png" width="100%">
+</p>
 
 ## 🤝 Contribuindo
 
